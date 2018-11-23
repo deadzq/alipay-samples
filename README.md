@@ -6,7 +6,7 @@
 
 | Sample          | Aipay Description                                          |
 | --------------- | ---------------------------------------------------------- |
-| pay-sample-page | PC网站支付,主要测试 下单支付、交易关闭、状态查询以及退款。 |
+| [pay-sample-page](https://github.com/DevilMafia/alipay-samples/tree/master/pay-sample-page) | PC网站支付,主要测试 下单支付、交易关闭、状态查询以及退款。 |
 | pay-sample-wap  | 手机网站支付                                               |
 | pay-sample-f2f  | 当面付                                                     |
 | pay-sample-sdk  | APP 支付                                                   |
